@@ -1,0 +1,1 @@
+//esta en convexHULL solo debes agregar una division entre 2 al area y ya seria
